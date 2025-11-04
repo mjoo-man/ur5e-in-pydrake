@@ -32,9 +32,16 @@ you are now ready to run the examples in this repo!
 
 ### Running the Sim
 
-`python3 run_simulator.py`
+```sh
+# if you've alreadys sourced the venv
+python3 run_simulator.py
+```
 
 
 ### Task Description
 
 Edit the `CalcControlEffort` function within the `FeedbackController` class in `my_controller.py` to implement your impedance controller
+
+### Code Outline
+In general, the code is structured according to this flowchart
+![](imgs/drake_sim.png)
