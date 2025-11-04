@@ -1,6 +1,12 @@
 # meen-612-ur5e-sim-project
-Code repository for the MEEN 408/612 class project involving UR5e robots simulated in Drake.
+A copy of the code repository for the MEEN 408/612 class project involving UR5e robots simulated in Drake.
 
+```
+NOTE:
+This is a personal copy of an earlier version of the project before I handed it off to Gray Thomas and Jonas Land to finish setting up the realtime portions for the class. 
+
+The final version of the project is public [here.](https://github.com/tamu-edu/meen-612-ur5e-sim-project)
+```
 
 **Set up Python Virtual Environment**
 
